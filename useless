@@ -9,6 +9,6 @@ source('~/ctfs/negative.density.dependence/0year/mc.one.year.r')
 source('~/ctfs/negative.density.dependence/0year/add.AICc3.one.year.r')
 source('~/ctfs/negative.density.dependence/0year/mean.estimator3.one.year.r')
 setwd("~/ctfs/negative.density.dependence/1year/heterospecific.adult/1year.survival.seedling")
-mc.one.year(2,1)
+mc.one.year(2,1)xcxcxzcxz
 add.AICc3.one.year()
 mean.estimator3.one.year(2)
